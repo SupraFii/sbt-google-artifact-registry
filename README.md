@@ -2,7 +2,7 @@
 An SBT dependency resolver and publisher for
 <a href="https://cloud.google.com/artifact-registry/">Google Artifact Registry</a> Maven repositories.
 
-It is implemented as a wrapepr around
+It is implemented as a wrapper around
 <a href="https://github.com/GoogleCloudPlatform/artifact-registry-maven-tools">Artifact Registry Maven Tools</a>.
 
 ## Usage
